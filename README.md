@@ -1,4 +1,4 @@
-## arrayEquals.js || Simple function to check if two shallow arrays are equal.
+### arrayEquals.js || Simple function to check if two shallow arrays are equal.
 
 #### [Link to Repo](https://github.com/Arathurs/arrayEquals.git/)
 
